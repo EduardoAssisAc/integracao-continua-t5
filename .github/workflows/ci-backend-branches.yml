@@ -1,4 +1,4 @@
-name: CI Back-end Branches2
+name: CI Back-end Branches
 
 on:
   push:
